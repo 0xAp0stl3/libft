@@ -15,7 +15,7 @@ make bonus
 ```
 ### MAKE RULES
 `make` - Compile libft **mandatory** files.  
-`make bonus` - Compile libft **bonus** files.  
+`make bonus` - Compile libft **bonus** files and **mandatory**.  
 `make all` - Compile **mandatory** + **bonus** files.  
 `make clean` - Delete all .o files.  
 `make fclean` - Delete all .o and .a files.  
