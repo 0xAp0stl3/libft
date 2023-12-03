@@ -1,9 +1,9 @@
 # libft
 Libft is the first project of 42.  
-# LIBFT DETAILS
+## LIBFT DETAILS
 Libft consists of creating a static library of several functions which will be used for other projects.  
 Libft must follow a certain standard called the norminette.  
-# HOW TO USE
+## HOW TO USE
 * Clone the repository
 ```
 git clone https://github.com/0xAp0stl3/libft.git
@@ -13,7 +13,7 @@ git clone https://github.com/0xAp0stl3/libft.git
 make re
 make bonus
 ```
-> [!MAKE RULE]
+### MAKE RULES
 > `make` - Compile libft **mandatory** files.
 > `make bonus` - Compile libft **bonus** files.
 > `make all` - Compile **mandatory** + **bonus** files.
