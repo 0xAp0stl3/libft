@@ -6,5 +6,18 @@ Libft must follow a certain standard called the norminette.
 # HOW TO USE
 * Clone the repository
 ```
-git clone https://github.com/
+git clone https://github.com/0xAp0stl3/libft.git
 ```
+* Enter the project and run make re or make bonus
+```
+make re
+make bonus
+```
+> [!MAKE RULE]
+> `make` - Compile libft **mandatory** files.
+> `make bonus` - Compile libft **bonus** files.
+> `make all` - Compile **mandatory** + **bonus** files.
+> `make clean` - Delete all .o files.
+> `make fclean` - Delete all .o and .a files.
+> `make re` - Use rules `fclean` + `all`.
+> `make header` - Compile the header
